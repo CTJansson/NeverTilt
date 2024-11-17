@@ -1,0 +1,9 @@
+## Interface: 110005
+## Version: 0.0.3
+## Title: NeverTilt
+## Notes: Hides rating from various pvp ui elements to never tilt
+## Author: Heroism2727
+## RequiredDeps: Blizzard_PVPUI, Blizzard_InspectUI, Blizzard_PVPMatch
+
+core.lua
+bgframe.lua
